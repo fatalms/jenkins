@@ -1,3 +1,6 @@
+plugins {
+    id 'jacoco'
+}
 apply plugin: 'java'
 
 repositories {
